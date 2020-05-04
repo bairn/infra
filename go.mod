@@ -52,6 +52,7 @@ require (
 	github.com/smartystreets/goconvey v1.6.4
 	github.com/tebeka/strftime v0.1.4 // indirect
 	github.com/tietang/dbx v1.0.1
+	github.com/tietang/go-eureka-client/eureka v0.0.0-20190327071554-ed5a2bb78851
 	github.com/tietang/go-utils v0.1.3
 	github.com/tietang/props v2.2.0+incompatible
 	github.com/valyala/fasttemplate v1.1.0 // indirect
