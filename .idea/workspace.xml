@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9ddadfd9-7d1d-44d6-b2f8-cf958f0d34c8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RunManager">
     <configuration name="TestHttpClient_Do in github.com/bairn/infra/httpclient" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -93,6 +92,10 @@
       <screen x="35" y="23" width="1405" height="877" />
     </state>
     <state width="1363" height="271" key="GridCell.Tab.0.right/35.23.1405.877@35.23.1405.877" timestamp="1588651212285" />
+    <state x="246" y="100" key="SettingsEditor" timestamp="1588681737721">
+      <screen x="35" y="23" width="1405" height="877" />
+    </state>
+    <state x="246" y="100" key="SettingsEditor/35.23.1405.877@35.23.1405.877" timestamp="1588681737721" />
     <state x="405" y="218" width="667" height="486" key="find.popup" timestamp="1588678040208">
       <screen x="35" y="23" width="1405" height="877" />
     </state>
