@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ddadfd9-7d1d-44d6-b2f8-cf958f0d34c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/httpclient/ec_test.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/http_client.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/httpclient/http_client_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lb/app.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lb/lb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lb/lb_hash.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lb/lb_rr.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,9 +93,10 @@
       <screen x="35" y="23" width="1405" height="877" />
     </state>
     <state width="1363" height="271" key="GridCell.Tab.0.right/35.23.1405.877@35.23.1405.877" timestamp="1588651212285" />
-    <state x="404" y="218" width="667" height="486" key="find.popup" timestamp="1588521453252">
-      <screen x="34" y="23" width="1406" height="877" />
+    <state x="405" y="218" width="667" height="486" key="find.popup" timestamp="1588678040208">
+      <screen x="35" y="23" width="1405" height="877" />
     </state>
     <state x="404" y="218" width="667" height="486" key="find.popup/34.23.1406.877@34.23.1406.877" timestamp="1588521453252" />
+    <state x="405" y="218" width="667" height="486" key="find.popup/35.23.1405.877@35.23.1405.877" timestamp="1588678040208" />
   </component>
 </project>
