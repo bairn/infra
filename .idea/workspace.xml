@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ddadfd9-7d1d-44d6-b2f8-cf958f0d34c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/base/eureka.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient/ec_test.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient/http_client.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/httpclient/http_client_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lb/app.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lb/lb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lb/lb_hash.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lb/lb_rr.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +44,24 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
+  <component name="RunManager">
+    <configuration name="TestHttpClient_Do in github.com/bairn/infra/httpclient" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="infra" />
+      <working_directory value="$PROJECT_DIR$/httpclient" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/bairn/infra/httpclient" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestHttpClient_Do$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestHttpClient_Do in github.com/bairn/infra/httpclient" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -60,6 +82,22 @@
     <proxy>https://goproxy.io,direct</proxy>
   </component>
   <component name="WindowStateProjectService">
+    <state width="1363" height="271" key="GridCell.Tab.0.bottom" timestamp="1588651212285">
+      <screen x="35" y="23" width="1405" height="877" />
+    </state>
+    <state width="1363" height="271" key="GridCell.Tab.0.bottom/35.23.1405.877@35.23.1405.877" timestamp="1588651212285" />
+    <state width="1363" height="271" key="GridCell.Tab.0.center" timestamp="1588651212284">
+      <screen x="35" y="23" width="1405" height="877" />
+    </state>
+    <state width="1363" height="271" key="GridCell.Tab.0.center/35.23.1405.877@35.23.1405.877" timestamp="1588651212284" />
+    <state width="1363" height="271" key="GridCell.Tab.0.left" timestamp="1588651212284">
+      <screen x="35" y="23" width="1405" height="877" />
+    </state>
+    <state width="1363" height="271" key="GridCell.Tab.0.left/35.23.1405.877@35.23.1405.877" timestamp="1588651212284" />
+    <state width="1363" height="271" key="GridCell.Tab.0.right" timestamp="1588651212285">
+      <screen x="35" y="23" width="1405" height="877" />
+    </state>
+    <state width="1363" height="271" key="GridCell.Tab.0.right/35.23.1405.877@35.23.1405.877" timestamp="1588651212285" />
     <state x="404" y="218" width="667" height="486" key="find.popup" timestamp="1588521453252">
       <screen x="34" y="23" width="1406" height="877" />
     </state>
